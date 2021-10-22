@@ -1,24 +1,24 @@
 # Discord-Downloads
 Get easy access to all the discord clients
-# ptb
+# Public Test Beta
 [windows](https://discord.com/api/download/ptb?platform=win)
 
 [linux](https://discord.com/api/download/ptb?platform=linux)
 
 [osx](https://discord.com/api/download/ptb?platform=osx)
-# canary
+# Canary
 [windows](https://discord.com/api/download/canary?platform=win)
 
 [linux](https://discord.com/api/download/canary?platform=linux)
 
 [osx](https://discord.com/api/download/canary?platform=osx)
-# dev
+# Development
 [windows](https://discord.com/api/download/development?platform=win)
 
 [linux](https://discord.com/api/download/development?platform=linux)
 
 [osx](https://https://discord.com/api/download/development?platform=osx)
-# normal
+# Stable
 [windows](https://discord.com/api/download?platform=win)
 
 [linux](https://discord.com/api/download?platform=linux)
