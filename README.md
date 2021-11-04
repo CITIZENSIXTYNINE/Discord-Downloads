@@ -17,7 +17,7 @@ Get easy access to all the discord clients
 
 [linux](https://discord.com/api/download/development?platform=linux)
 
-[osx](https://https://discord.com/api/download/development?platform=osx)
+[osx](https://discord.com/api/download/development?platform=osx)
 # Stable
 [windows](https://discord.com/api/download?platform=win)
 
