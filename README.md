@@ -1,26 +1,30 @@
 # Discord-Downloads
-Get easy access to all the discord clients
-# Public Test Beta
-[windows](https://discord.com/api/download/ptb?platform=win)
+This README contains all (or most) of the download links to download [Discord](https://discord.com) clients.
 
-[linux](https://discord.com/api/download/ptb?platform=linux)
-
-[osx](https://discord.com/api/download/ptb?platform=osx)
-# Canary
-[windows](https://discord.com/api/download/canary?platform=win)
-
-[linux](https://discord.com/api/download/canary?platform=linux)
-
-[osx](https://discord.com/api/download/canary?platform=osx)
-# Development
-[windows](https://discord.com/api/download/development?platform=win)
-
-[linux](https://discord.com/api/download/development?platform=linux)
-
-[osx](https://discord.com/api/download/development?platform=osx)
-# Stable
+## Stable
 [windows](https://discord.com/api/download?platform=win)
 
-[linux](https://discord.com/api/download?platform=linux)
+Linux: [.deb](https://discord.com/api/download?platform=linux)/[.tar](https://discord.com/api/download?platform=linux&format=tar.gz)
 
-[osx](https://discord.com/api/download?platform=osx)
+[macOS](https://discord.com/api/download?platform=osx)
+
+# Public Test Beta (PTB)
+[Windows](https://discord.com/api/download/ptb?platform=win)
+
+Linux: [.deb](https://discord.com/api/download/ptb?platform=linux)/[.tar](https://discord.com/api/download/ptby?platform=linux&format=tar.gz)
+
+[macOS](https://discord.com/api/download/ptb?platform=osx)
+
+# Canary
+[Windows](https://discord.com/api/download/canary?platform=win)
+
+Linux: [.deb](https://discord.com/api/download/canary?platform=linux)/[.tar](https://discord.com/api/download/canary?platform=linux&format=tar.gz)
+
+[macOS](https://discord.com/api/download/canary?platform=osx)
+
+# Development
+[Windows](https://discord.com/api/download/development?platform=win)
+
+Linux: [.deb](https://discord.com/api/download/development?platform=linux)/[.tar](https://discord.com/api/download/development?platform=linux&format=tar.gz)
+
+[macOS](https://discord.com/api/download/development?platform=osx)
