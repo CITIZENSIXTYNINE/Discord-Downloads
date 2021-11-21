@@ -2,7 +2,7 @@
 This README contains all (or most) of the download links to download [Discord](https://discord.com) clients.
 
 ## Stable
-[windows](https://discord.com/api/download?platform=win)
+[Windows](https://discord.com/api/download?platform=win)
 
 Linux: [.deb](https://discord.com/api/download?platform=linux)/[.tar](https://discord.com/api/download?platform=linux&format=tar.gz)
 
