@@ -8,7 +8,7 @@ Linux: [.deb](https://discord.com/api/download?platform=linux)/[.tar](https://di
 
 [macOS](https://discord.com/api/download?platform=osx)
 
-## Public Test Beta (PTB)
+## Public Test Build (PTB)
 [Windows](https://discord.com/api/download/ptb?platform=win)
 
 Linux: [.deb](https://discord.com/api/download/ptb?platform=linux)/[.tar](https://discord.com/api/download/ptb?platform=linux&format=tar.gz)
